@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="graphql" title="graphql" src="assets/logo.svg" />
+  <img alt="graphql" title="graphql" src="assets/logo.svg" width="50%" height="50%"/>
 </p>
 
 

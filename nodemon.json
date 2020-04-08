@@ -1,0 +1,5 @@
+{
+  "excMap": {
+    "js": "sucrase-node"
+  }
+}

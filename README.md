@@ -1,5 +1,6 @@
 <p align="center">
-  <img alt="graphql" title="graphql" src="assets/logo.svg" width="250" height="300"/>
+  <img alt="graphQL" title="graphQL" src="assets/logo.svg" width="200" height="250"/>
+  <h1 color="#E25497">graphQL</h1>
 </p>
 
 

@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
   <img alt="graphql" title="graphql" src="assets/logo.svg" />
-</h1>
+</p>
 
 
 # Objetivo:
